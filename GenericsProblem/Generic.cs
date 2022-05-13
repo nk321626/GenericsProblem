@@ -30,7 +30,7 @@ namespace GenericsProblem
             }
         }
         //UC 2: Given three Floats Find the Maximum.
-        public static double FindMaxValueOutOfThree(double first, double second, double third)
+        public static double FindMaxValueOutOfThreedouble(double first, double second, double third)
         {
             if (first.CompareTo(second) > 0 && first.CompareTo(third) > 0)
             {
